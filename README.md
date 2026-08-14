@@ -1,6 +1,6 @@
 # DeepSeek Harness Mobile
 
-The [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) agent, running **on your Android phone** — a SillyTavern-style mobile chat UI over a real on-device agent that reads files, runs commands, and edits code. No cloud round-trip: the agent, your files, and your model key all stay on the device.
+The [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) agent, running **on your Android phone** — a mobile chat UI over a real on-device agent that reads files, runs commands, and edits code. No cloud round-trip: the agent, your files, and your model key all stay on the device.
 
 English | [中文](README.zh.md)
 
